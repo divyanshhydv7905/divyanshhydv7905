@@ -1,5 +1,4 @@
-# Replace with your information before using.
-
+Hey, I'm Divyansh Yadav
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Divyansh%20Yadav&fontAlignY=38&fontSize=52&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
@@ -247,37 +246,6 @@ Building real-world web projects while developing strong software engineering fu
 </div>
 
 ---
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - React Ecosystem
-  - Node.js
-  - AWS Cloud
-  - Machine Learning
-
-Building:
-  - Full Stack Applications
-  - AI Powered Products
-  - Developer Portfolio
-  - Open Source Projects
-
-Exploring:
-  - Microservices
-  - Docker
-  - Kubernetes
-  - LLM Applications
-  - AI Automation
-
-Open To:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Full Stack Roles
-  - Open Source Collaboration
-```
 
 ---
 
